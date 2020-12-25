@@ -95,6 +95,8 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
+def setup(app):
+    app.add_stylesheet("css/theme.css")
 
 
 # -- Options for HTMLHelp output ---------------------------------------------
