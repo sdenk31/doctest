@@ -10,7 +10,7 @@ the secure tokenization and trading of industrial and financial assets. ([https:
 ## 1.1. Atomyze platform interface
 
 The profile of the Atomyze platform interface
-indicated below:
+indicated below: TEST test
 
 ![](./images/2020-12-25-11-36-13-image.png)
 
