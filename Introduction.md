@@ -1,10 +1,6 @@
-<style>
-</style>
 
-## 
 
-<style>
-</style>
+
 
 # 1. Introduction
 
@@ -16,10 +12,10 @@ the secure tokenization and trading of industrial and financial assets. ([https:
 The profile of the Atomyze platform interface
 indicated below:
 
-![](/images/2020-12-25-11-36-13-image.png)
+![](/Users/denis/Library/Application%20Support/marktext/images/2020-12-25-11-36-13-image.png)
 
- Screen 1. The
-Atomyze platform interface
+ `Screen 1. The
+Atomyze platform interface`
 
 The User’s profile consists of several blocks:
 
